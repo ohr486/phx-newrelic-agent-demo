@@ -1,5 +1,12 @@
 # newrelic demo for phx
 
+## 利用パッケージ
+
+https://github.com/newrelic/elixir_agent
+
+https://github.com/binaryseed/new_relic_phoenix
+
+
 ```bash
 $ mix archive.install hex phx_new 1.4.0
 $ mix phx_new demo --database=mysql
